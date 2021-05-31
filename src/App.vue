@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
-    Sprawdzam jak działają pushe
+    Czy nowe rzeczy są na githubie ?
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
 </template>
