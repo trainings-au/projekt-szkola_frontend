@@ -1,18 +1,22 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
-    Czy nowe rzeczy są na githubie ?
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <main>
+      <HelloWorld msg="Welcome to Your Vue.js App" />
+      <TodoList />
+    </main>
   </div>
 </template>
 
 <script>
 import HelloWorld from "./components/HelloWorld.vue";
+import TodoList from "./components/TodoList.vue";
 
 export default {
   name: "App",
   components: {
     HelloWorld,
+    TodoList,
   },
 };
 </script>
