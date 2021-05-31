@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
-    Czy nowe rzeczy są na githubie ?
+    Czy nowe rzeczy są na githubie ? Zobaczymy
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
 </template>
