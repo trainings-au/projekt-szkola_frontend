@@ -1,3 +1,3 @@
 <template>
-  <div class="hello">to jest list</div>
+  <div>to jest list</div>
 </template>
